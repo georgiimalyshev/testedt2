@@ -3,6 +3,8 @@
 	<name>Библиотека_стандартных_подсистем_демо_1</name>
 	<comment></comment>
 	<projects>
+		<project>Библиотека_стандартных_подсистем_демо_1._ДемоПустоеРасширение</project>
+		<project>Библиотека_стандартных_подсистем_демо_1._ДемоРасширение</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
